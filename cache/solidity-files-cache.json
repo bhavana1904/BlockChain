@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/bhavanachunduri/Downloads/blockchain_project copy/contracts/InsurancePolicy.sol": {
+      "lastModificationDate": 1730586562362,
+      "contentHash": "dd1f7d3236cec8c9f7383414754efd73",
+      "sourceName": "contracts/InsurancePolicy.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "InsurancePolicy"
+      ]
+    },
+    "/Users/bhavanachunduri/Downloads/blockchain_project copy/contracts/Claim.sol": {
+      "lastModificationDate": 1730748473776,
+      "contentHash": "337ebfec53ca93d810dec10d463520ce",
+      "sourceName": "contracts/Claim.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Claim"
+      ]
+    }
+  }
+}
